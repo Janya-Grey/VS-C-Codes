@@ -1,2 +1,2 @@
-# VS-C-Codes
-All the C codes I will make onwards of 1st semester of college.
+# VS-C-Codes-Alpha-Test
+Trying new C codes in this branch.
